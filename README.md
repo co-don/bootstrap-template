@@ -9,4 +9,4 @@ A simple template site using [Bootstrap](http://twitter.github.com/bootstrap/)
 3. Install client-side dependencies with bower: `cd bootstrap-template/public && ../node_modules/bower/bin/bower install`
 
 # Generate HTML
-`cd bootstrap-template && node_modules/jade/bin/jade
+1. run `make`
